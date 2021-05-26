@@ -13,11 +13,11 @@ var thunderCreatedFrame = 0;
 
 
 function preload(){
-   night = loadImage("images/rainynight.jpg");
+   night = loadImage("rainynight.jpg");
    thunder1 = loadImage("images/thunderbolt/1.png");
-   thunder2 = loadImage("images/thunderbolt/2.png");
-   thunder3 = loadImage("images/thunderbolt/3.png");
-   thunder4 = loadImage("images/thunderbolt/4.png");
+   thunder2 = loadImage("thunderbolt/2.png");
+   thunder3 = loadImage("thunderbolt/3.png");
+   thunder4 = loadImage("thunderbolt/4.png");
 }
 
 function setup(){
